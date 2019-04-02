@@ -5,7 +5,7 @@
   "main": "index.js",
   "author": "true",
   "dependencies": {
-    "discord.js": "^11.4.2",
-    "mongoose": "^5.4.20",
+    "discord.js",
+    "mongoose"
   }
 }
