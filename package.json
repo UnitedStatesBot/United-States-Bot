@@ -1,0 +1,11 @@
+{
+  "name": "unitedbot",
+  "version": "1.0.0",
+  "description": "A bot for United States Army",
+  "main": "index.js",
+  "author": "true",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "mongoose": "^5.4.20",
+  }
+}
