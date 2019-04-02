@@ -3,9 +3,12 @@
   "version": "1.0.0",
   "description": "A bot for United States Army",
   "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
   "author": "true",
   "dependencies": {
-    "discord.js"
-    "mongoose"
+    "discord.js",
+    "mongoose",
   },
 }
