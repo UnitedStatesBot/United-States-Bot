@@ -5,6 +5,7 @@
   "main": "index.js",
   "author": "true",
   "dependencies": {
-    "discord.js"
-  }
+    "discord.js",
+    "mongoose"
+  },
 }
