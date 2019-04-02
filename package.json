@@ -6,6 +6,5 @@
   "author": "true",
   "dependencies": {
     "discord.js"
-    "mongoose",
   }
 }
