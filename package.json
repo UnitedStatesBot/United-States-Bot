@@ -2,10 +2,13 @@
   "name": "unitedbot",
   "version": "1.0.0",
   "description": "A bot for United States Army",
-  "main": "index.js",
+  "main": "app.js",
   "author": "true",
   "dependencies": {
-    "discord.js": "11.4.2",
-    "mongoose": "5.4.20",
-  },
+    "discord.js": "^11.4.2",
+    "dotenv-flow": "^0.3.0-rc.1",
+    "mongoose": "^5.4.20",
+    "node-fetch": "^2.3.0",
+    "relevant-urban": "^2.0.0"
+  }
 }
